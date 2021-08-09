@@ -1,6 +1,6 @@
 {
-	"label": "beta-sdk-app",
-	"version": "0.0.0",
+	"label": "Pitagora Blockchain",
+	"version": "0.0.1",
 	"networkVersion": "1.0",
 	"rootPath": "~/.lisk",
 	"logger": {
@@ -14,8 +14,8 @@
 		"port": 8080
 	},
 	"genesisConfig": {
-		"blockTime": 10,
-		"communityIdentifier": "sdk",
+		"blockTime": 5,
+		"communityIdentifier": "pitagora",
 		"maxPayloadLength": 15360,
 		"bftThreshold": 68,
 		"minFeePerByte": 1000,
